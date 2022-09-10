@@ -48,9 +48,9 @@ ul {
     font-size: 20px;
 }
 
-/* Baggrundens farve */
- {
-    background-color: pink;
+ /*baggrundsfarve*/
+ body {
+    background-color: blue;
 }
 
 /* Overskriftens farve*/
